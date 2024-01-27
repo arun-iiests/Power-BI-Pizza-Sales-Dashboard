@@ -1,10 +1,9 @@
 # Power BI Pizza Sales Dashboard
 
 ## Project Overview
+The Power BI Pizza Sales Dashboard offers a concise view of key metrics, including total revenue, pizza sold, orders, and average pizzas per order. Visuals depict temporal trends with monthly and daily charts, while sales distribution by category and size is illustrated through donut charts. The dashboard identifies top and bottom-performing pizzas by revenue and orders, serving decision-makers with actionable insights for strategic planning.
 
-The Power BI Pizza Sales Analysis Dashboard offers a concise snapshot of crucial sales metrics. Key performance indicators (KPIs) such as total revenue, total pizza sold, total orders, and average pizzas per order are prominently featured. Temporal trends are visually presented through monthly and daily trend charts, providing a dynamic view of sales patterns over time. Sales distribution across categories and pizza sizes is effectively communicated using donut charts. The dashboard goes further to provide insights into the top and bottom-performing pizzas based on revenue and order quantities. This compact yet powerful tool empowers decision-makers with actionable insights, facilitating strategic planning and informed decision-making.
-
-Embarking on my inaugural Power BI project has been an immensely enlightening experience. Working with a real dataset has not only provided practical insights but also made the journey truly exhilarating. The various processes involved have contributed significantly to my learning curve. The key takeaways from this endeavor include...
+**Embarking on my inaugural Power BI project has been an immensely enlightening experience. The various processes involved have contributed significantly to my learning curve. The key takeaways from this endeavor include...**
 
 ## About Dataset
 "This dataset captures comprehensive information on pizza orders. Each entry includes a unique 'pizza_id' and 'order_id' for tracking individual pizzas and orders, respectively. 'pizza_name_id' links pizzas to specific names, while 'quantity' denotes the number ordered. Date and time of orders are recorded in 'order_date' and 'order_time.' Pricing details include 'unit_price' and 'total_price.' Pizza attributes such as 'pizza_size,' 'pizza_category,' and a list of 'pizza_ingredients' are specified, along with the distinctive 'pizza_name' for each item."
